@@ -1,0 +1,7 @@
+bin/
+obj/
+.idea/
+.go2web_cache/
+*.user
+*.suo
+docs/superpowers/
